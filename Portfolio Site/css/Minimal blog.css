@@ -1,0 +1,32 @@
+body {
+	margin: 7% 13% 5% 13%;
+	border: 10px solid #f1f1f1;
+	padding-top: 5%;
+	padding-left: 2%;
+	padding-right: 2%;
+}
+h1 {
+	color: #323944;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 50px;
+}
+.date {
+	letter-spacing: 10px;
+	color: #95bee2;
+	padding-bottom: 30px;
+	font-family: 'Merriweather', serif;
+
+}
+.content {
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-decoration: bold;
+}
+
+hr.style-one {
+    border: 0;
+    height: 1px;
+    background: #727272;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
